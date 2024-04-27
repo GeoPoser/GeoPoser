@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GeoPoser
 - 👀 I’m interested in geography, STEM and art.
 - 🌱 I’m currently learning Python and CSS
-- 💞️ I like georgraphy, history and politics.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've lived in 4 different countries.
 
