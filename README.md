@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @GeoPoser
-- 👀 I like rock music, chess, and binging youtube.
-- 🌱 I’m currently learning Python and C++.
-- 😄 Friend me on chess.com @cherryzer0
-- ⚡ Fun fact: I've lived in 5 different countries.
+Hi, I'm geoposer. I like rock music, playing chess (friend me on chess.com), and binging youtube. I've lived in a bunch of places and don't like socializing.
 
 <!---
 GeoPoser/GeoPoser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
