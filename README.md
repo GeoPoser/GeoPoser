@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GeoPoser
-- 👀 I’m interested in geography, STEM and art.
-- 🌱 I’m currently learning Python and CSS
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I've lived in 4 different countries.
+- 👀 I like rock music, chess, and binging youtube.
+- 🌱 I’m currently learning Python and C++.
+- 😄 Friend me on chess.com @cherryzer0
+- ⚡ Fun fact: I've lived in 5 different countries.
 
 <!---
 GeoPoser/GeoPoser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
